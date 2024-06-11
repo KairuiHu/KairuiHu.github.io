@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="/images/Kairui_bio.jpg" alt="Kairui Hu">
+<img src="/images/Kairui_bio.jpg" class="floatpic" width="360" height="480">
 
 Here is **Kairui Hu**.
 
